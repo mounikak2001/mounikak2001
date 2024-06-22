@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mounikak2001
 - 👀 I'm a data enthusiast
-- 🌱 I’m currently learning PowerBI,Advance Excel,Python
+- 🌱 I’m currently learning PowerBI,Advance Excel,Mysql,Python
 - 📫 You can reach me on **mounikaraok0105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
